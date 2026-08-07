@@ -117,3 +117,5 @@ rs-cache-library-master/
 **/.DS_Store
 
 *.salive
+game-client/src/main/java/com/osroyale/Configuration.java
+.claude/settings.local.json
